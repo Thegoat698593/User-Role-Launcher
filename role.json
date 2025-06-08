@@ -1,0 +1,28 @@
+{
+  "Users": [
+    {
+      "email": "user1@example.com",
+      "username": "UserOne",
+      "role": "Admin",
+      "accountId": "12345",
+      "avatarUrl": "/avatars/user1.png",
+      "discordId": "discord123",
+      "password": "hashed_password",
+      "banned": false,
+      "vbucks": "1000",
+      "favorite_character": "CharacterA"
+    },
+    {
+      "email": "user2@example.com",
+      "username": "UserTwo",
+      "role": "Member",
+      "accountId": "67890",
+      "avatarUrl": "/avatars/user2.png",
+      "discordId": "discord456",
+      "password": "hashed_password",
+      "banned": false,
+      "vbucks": "500",
+      "favorite_character": "CharacterB"
+    }
+  ]
+}
