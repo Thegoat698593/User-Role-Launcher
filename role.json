@@ -1,13 +1,13 @@
 {
   "Users": [
     {
-      "email": "user1@example.com",
-      "username": "UserOne",
+      "email": "l",
+      "username": "l",
       "role": "Admin",
       "accountId": "12345",
       "avatarUrl": "/avatars/user1.png",
       "discordId": "discord123",
-      "password": "hashed_password",
+      "password": "l",
       "banned": false,
       "vbucks": "1000",
       "favorite_character": "CharacterA"
